@@ -1,8 +1,9 @@
-# World-Views at Play 🌍
+# Worldviews at Play 🌍
 
 Welcome to **World-Views at Play**, a groundbreaking multiplayer game that brings players together to discuss current topics and engage in thought-provoking conversations.
 
-![World-Views at Play Logo]([https://link-to-your-logo.png](https://worldview-quiz-seven.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fglasses.369fac23.png&w=640&q=75))
+![Worldviews at play glasses](https://github.com/SaintALY/worldviews-at-play/assets/92914760/7de66dfb-cb02-461a-abd7-4f2e49c70c5d)
+
 
 ## About the Game 🎮
 
@@ -24,6 +25,13 @@ You can try the working prototype of the quiz [here](https://worldview-quiz-seve
 - **Real-time AI Guidance**: Experience a game that evolves with your responses.
 - **Educational and Fun**: Learn about different perspectives while having fun.
 - **Custom Player Profiles**: Get a profile tailored to your worldview.
+
+## Photos
+
+![wv_quiz_screenshot_1](https://github.com/SaintALY/worldviews-at-play/assets/92914760/9b53bab8-5f95-412c-a3ad-1c61ef80eade)
+![wv_quiz_screenshot_2](https://github.com/SaintALY/worldviews-at-play/assets/92914760/32302434-ddcf-47c0-91df-73f19faf4bfb)
+![wv_quiz_screenshot_3](https://github.com/SaintALY/worldviews-at-play/assets/92914760/6838a3d1-c946-46c4-adcf-90d319b0033d)
+
 
 ## Roadmap 🗺️
 
