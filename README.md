@@ -18,6 +18,7 @@ The quiz is beautifully designed by **Lioba Rubik** and skillfully developed by 
 #### Try the Prototype!
 
 You can try the working prototype of the quiz [here](https://worldview-quiz-seven.vercel.app/).
+Attention: The backend is currently NOT live due to maintenance.
 
 ## Features 🌟
 
